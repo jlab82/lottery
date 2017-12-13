@@ -7,7 +7,7 @@ def buscar_numero_en_lista(nombre_lista, num_aleatorio):
             return True
 
 
-print("Bienvenidos al generador de números de lotería")
+print("Bienvenidos al generador de números de Lotería")
 num = int(raw_input("Por favor, introduce cuántos números quieres generar: "))
 lista = []
 posicion = 0
